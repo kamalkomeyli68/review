@@ -3,7 +3,7 @@ package com.company.review.core.service;
 import java.util.HashMap;
 import java.util.List;
 
-import com.company.review.core.model.product.ProductCode;
+import com.company.review.core.model.ProductCode;
 import lombok.extern.slf4j.Slf4j;
 
 import org.springframework.stereotype.Component;

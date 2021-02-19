@@ -1,4 +1,4 @@
-package com.company.review.core.model.product;
+package com.company.review.core.model;
 
 import java.util.stream.Stream;
 

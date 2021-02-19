@@ -2,7 +2,7 @@ package com.company.review.core.client;
 
 
 import com.company.review.core.client.response.ProductDetailsResponse;
-import com.company.review.core.model.product.ProductCode;
+import com.company.review.core.model.ProductCode;
 import com.company.review.core.service.ProductService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
